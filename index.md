@@ -4,23 +4,41 @@ layout: default
 
 # Work I have done
 
+<style>
+* {
+    box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+
 ## capstone
 
 Lead artist and tech artist.
 
 ## Worhol
-
-<dl>
-    <div class="row">
-    <div class="column">
-    <p>Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.<p>
-    </div>
-    <div class="column">
-    <p>Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.<p>
-    </div>
-    </div>
-</dl>
-Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <p>Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.
+    </p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <p>Some text..</p>
+  </div>
+</div>
 
 ## GPU Based Particle Fire
 
