@@ -12,9 +12,11 @@ layout: default
 /* Create two equal columns that floats next to each other */
 .column {
     float: left;
+    position: fixed;
     right: 100px;
     width: 50%;
-    padding: 20px;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
