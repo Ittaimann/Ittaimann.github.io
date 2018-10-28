@@ -6,18 +6,20 @@ layout: default
 
 ## capstone
 
-Lead artist and tech artist. 
+Lead artist and tech artist.
 
 ## Worhol
-<div class="row">
-  <div class="column">
-  <p>Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.<p>
-  </div>
-  <div class="column">
-  <p>Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.<p>
 
-  </div>
-</div>
+<dl>
+    <div class="row">
+    <div class="column">
+    <p>Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.<p>
+    </div>
+    <div class="column">
+    <p>Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.<p>
+    </div>
+    </div>
+</dl>
 Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.
 
 ## GPU Based Particle Fire
@@ -36,7 +38,7 @@ Created screen space texture shaders, as well as help implement level design.
 
 Global game jam 2018 game, Helped create architecture such as bullet pooling and api for adding new bullets, and created controller mappings. Created art assets
 
-## Flight fishing
+## Flight Fishing
 
 Created all art for the game and a water distortion shader.
 
