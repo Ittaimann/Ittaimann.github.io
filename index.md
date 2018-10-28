@@ -11,10 +11,10 @@ Lead artist and tech artist.
 ## Worhol
 <div class="row">
   <div class="column">
-  Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.
+  <p>Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.<p>
   </div>
   <div class="column">
-  Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.
+  <p>Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.<p>
 
   </div>
 </div>
