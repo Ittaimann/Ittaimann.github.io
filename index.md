@@ -12,6 +12,7 @@ layout: default
 /* Create two equal columns that floats next to each other */
 .column {
     float: left;
+    right: 30px;
     width: 50%;
     padding: 20px;
 }
