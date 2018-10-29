@@ -34,13 +34,12 @@ Lead artist and tech artist.
 <h2>Two Equal Columns</h2>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+  <div class="column" style="background-color:red;">
+    <p>Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.
+</p>
   </div>
-  <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+  <div class="column" style="background-color:blue;">
+  <img src="Capture.PNG" alt="Capture.PNG" width="300" height="300" align="right">
   </div>
 </div>
 
@@ -51,7 +50,7 @@ Lead artist and tech artist.
 
 ## Worhol
 
-<img src="Capture.PNG" alt="Capture.PNG" width="300" height="300" align="right">Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.
+Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.
 
 ---
 
