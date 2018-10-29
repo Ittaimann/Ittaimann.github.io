@@ -4,14 +4,16 @@ layout: default
 
 # Work I have done
 
-
 ## capstone
 
 Lead artist and tech artist.
 
+
+
+
 ## Worhol
 
-Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.
+<img src="Capture.PNG" alt="Capture.PNG" width="300" height="300" align="right">Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.
 
 
 
