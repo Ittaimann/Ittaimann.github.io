@@ -49,6 +49,7 @@ Lead artist and tech artist.
 </div>
 
 </body>
+</html>
 ---
 
 ## GPU Based Particle Fire
