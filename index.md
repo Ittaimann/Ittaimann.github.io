@@ -32,6 +32,7 @@ Lead artist and tech artist.
 </head>
 <body>
 
+<h2>Two Equal Columns</h2>
 
 <div class="row">
   <div class="column"style="background-color:#1C1C1C">
