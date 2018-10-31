@@ -18,6 +18,8 @@ Lead artist and tech artist.
     float: left;
     width: 50%;
     padding: 10px;
+    height: 200px; /* Should be removed. Only for demonstration */
+
     height: 300px; /* Should be removed. Only for demonstration */
 }
 
@@ -39,7 +41,7 @@ Lead artist and tech artist.
     <p>Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.</p>
   </div>
   <div class="column" style="background-color:#1C1C1C;">
-  <img src="Capture.PNG" alt="Capture.PNG" width="300" height="300" align="right">
+  <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
   </div>
 </div>
 
