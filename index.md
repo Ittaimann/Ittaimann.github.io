@@ -27,31 +27,21 @@ Lead artist and tech artist.
     content: "";
     display: table;
     clear: left;
-}
-
-</style>
+}</style>
 </head>
 <body>
 
-<h2>Two Equal Columns</h2>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+  <div class="column"style="background-color:#1C1C1C">
+    <p>Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.</p>
   </div>
-  <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+  <div class="column"style="background-color:#2C2C2C">
+  <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
   </div>
 </div>
 
 </body>
-</html>
-
-
-
-
 
 ## Worhol
 
