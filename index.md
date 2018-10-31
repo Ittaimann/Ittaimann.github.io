@@ -32,7 +32,9 @@ Lead artist and tech artist.
 
 
 ## Worhol
-<html>
+
+</style>
+<head>
 <body>
 
 
@@ -47,7 +49,6 @@ Lead artist and tech artist.
 </div>
 
 </body>
-</html>
 ---
 
 ## GPU Based Particle Fire
