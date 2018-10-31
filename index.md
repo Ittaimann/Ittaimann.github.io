@@ -7,7 +7,6 @@ layout: default
 ## capstone
 
 Lead artist and tech artist.
-<html>
 
 <style>
 * {
@@ -19,32 +18,34 @@ Lead artist and tech artist.
     float: left;
     width: 50%;
     padding: 10px;
-    height: 200px; /* Should be removed. Only for demonstration */
-    width: 300px
+    height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
 .row:after {
     content: "";
     display: table;
-    clear: left;
-}</style>
+    clear: both;
+}
+</style>
 </head>
 <body>
 
 <h2>Two Equal Columns</h2>
 
 <div class="row">
-  <div class="column"style="background-color:#1C1C1C">
-    <p>Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.</p>
+  <div class="column" style="background-color:#2C2C2C;">
+    <p>Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.
+</p>
   </div>
-  <div class="column"style="background-color:#2C2C2C">
-  <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
+  <div class="column" style="background-color:#1C1C1C;">
+  <img src="Capture.PNG" alt="Capture.PNG" width="300" height="300" align="right">
   </div>
 </div>
 
 </body>
 </html>
+
 
 ## Worhol
 
