@@ -32,9 +32,9 @@ Lead artist and tech artist.
 
 
 ## Worhol
-
+<html>
 <body>
-<h2>Two Equal Columns</h2>
+
 
 <div class="row">
   <div class="column"style="background-color:#1C1C1C">
@@ -47,7 +47,7 @@ Lead artist and tech artist.
 </div>
 
 </body>
-
+</html>
 ---
 
 ## GPU Based Particle Fire
