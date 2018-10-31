@@ -42,6 +42,7 @@ Lead artist and tech artist.
 </div>
 
 </body>
+</html>
 
 ## Worhol
 
