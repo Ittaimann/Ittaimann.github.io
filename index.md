@@ -7,6 +7,7 @@ layout: default
 ## capstone
 
 Lead artist and tech artist.
+<html>
 
 <style>
 * {
