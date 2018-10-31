@@ -28,10 +28,8 @@ Lead artist and tech artist.
     clear: both;
 }
 </style>
-</head>
 <body>
 
-<h2>Two Equal Columns</h2>
 
 <div class="row">
   <div class="column" style="background-color:#2C2C2C;">
@@ -44,7 +42,6 @@ Lead artist and tech artist.
 </div>
 
 </body>
-</html>
 
 
 ## Worhol
