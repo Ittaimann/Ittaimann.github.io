@@ -9,7 +9,7 @@ Awesome Per Second game jam. [This](https://github.com/GDFauxtrot/AwesomePerSeco
 
 *image of game*
 
-![alt](Capture.png)
+![alt](Capture.PNG)
 
 The original concept for the game was rolling around a museum destroying as many pieces as possible. Meaning we had to implement a quick way to destroy museum object as well as make proper feedback for rolling and smashing said objects.
 
