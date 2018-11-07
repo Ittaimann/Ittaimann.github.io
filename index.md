@@ -60,7 +60,7 @@ Lead artist and tech artist.
   <div class="column" style="background-color:#2C2C2C;">
     <p>A Tiny project made for a class using Compute shaders in order to generate large amounts of particles via gpu compute shaders and gpu side noise.</p>
 
-    <a href="GamesIndex/Worhol.md">View more info here</a>
+    <a href="GamesIndex/GPU_Fire.md">View more info here</a>
   </div>
   <div class="column" style="background-color:#1C1C1C;">
   <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
@@ -86,13 +86,12 @@ Lead artist and tech artist.
   </div>
   <div class="column" style="background-color:#1C1C1C;">
 <p>A game for ics 161 game engine lab. Created almost all art for the game as well as help create architecture.</p>
-    <a href="GamesIndex/Worhol.md">View more info here</a>
+    <a href="GamesIndex/Zom-Bam-Bros.md">View more info here</a>
 
   </div>
 </div>
 
 </body>
-
 
 ---
 
@@ -111,7 +110,7 @@ Lead artist and tech artist.
   <div class="column" style="background-color:#1C1C1C;">
 <p>Created screen space texture shaders, as well as help implement level design.
 </p>
-    <a href="GamesIndex/Worhol.md">View more info here</a>
+    <a href="GamesIndex/CrackersAndCheese.md">View more info here</a>
 
   </div>
 </div>
@@ -127,7 +126,7 @@ Lead artist and tech artist.
   <div class="column" style="background-color:#2C2C2C;">
     <p>Global game jam 2018 game, Helped create architecture such as bullet pooling and api for adding new bullets, and created controller mappings. Created art assets.</p>
 
-    <a href="GamesIndex/Worhol.md">View more info here</a>
+    <a href="GamesIndex/DinoStream.md">View more info here</a>
   </div>
   <div class="column" style="background-color:#1C1C1C;">
   <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
@@ -163,7 +162,7 @@ Lead artist and tech artist.
   </div>
   <div class="column" style="background-color:#1C1C1C;">
     <p>Helped program traps as well as implement simple distortion shader.</p>
-    <a href="GamesIndex/Worhol.md">View more info here</a>
+    <a href="GamesIndex/FlightFishing.md">View more info here</a>
   </div>
 </div>
 </body>
@@ -178,7 +177,7 @@ Lead artist and tech artist.
   </div>
   <div class="column" style="background-color:#1C1C1C;">
     <p>Created player aiming controls</p>
-    <a href="GamesIndex/Worhol.md">View more info here</a>
+    <a href="GamesIndex/Instrumental.md">View more info here</a>
   </div>
 </div>
 </body>
