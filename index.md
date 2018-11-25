@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Work I have done
+# THIS SITE IS UNDER CONSTRUCTION, but here are most of my projects
 
 ## capstone
 
