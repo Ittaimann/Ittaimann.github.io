@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# THIS SITE IS UNDER CONSTRUCTION, but here are most of my projects
+# My projects! (site under construction)
 
 <style>
 * {
