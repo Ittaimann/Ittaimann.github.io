@@ -72,11 +72,11 @@ Lead artist and tech artist.
 
 <div class="row">
   <div class="column" style="background-color:#2C2C2C;">
-     <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
-  </div>
-  <div class="column" style="background-color:#1C1C1C;">
 <p>A game for ics 161 game engine lab. Created almost all art for the game as well as help create architecture.</p>
     <a href="https://ittaimann.github.io/GamesIndex/Zom-Bam-Bros.html">View more info here</a>
+  </div>
+  <div class="column" style="background-color:#1C1C1C;">
+     <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
   </div>
 </div>
 </body>
@@ -91,11 +91,11 @@ Lead artist and tech artist.
 
 <div class="row">
   <div class="column" style="background-color:#2C2C2C;">
-     <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
-    </div>
-    <div class="column" style="background-color:#1C1C1C;">
     <p>Created screen space texture shaders, as well as help implement level design.</p>
     <a href="https://ittaimann.github.io/GamesIndex/CrackersAndCheese.html">View more info here</a>
+    </div>
+    <div class="column" style="background-color:#1C1C1C;">
+    <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
   </div>
 </div>
 
@@ -140,11 +140,12 @@ Lead artist and tech artist.
 <body>
 <div class="row">
   <div class="column" style="background-color:#2C2C2C;">
-     <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
-  </div>
-  <div class="column" style="background-color:#1C1C1C;">
     <p>Helped program traps as well as implement simple distortion shader.</p>
     <a href="https://ittaimann.github.io/GamesIndex/EdgeOfMadness.html">View more info here</a>
+     
+  </div>
+  <div class="column" style="background-color:#1C1C1C;">
+  <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
   </div>
 </div>
 </body>
@@ -155,12 +156,11 @@ Lead artist and tech artist.
 <body>
 <div class="row">
   <div class="column" style="background-color:#2C2C2C;">
-     <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
-  </div>
-  <div class="column" style="background-color:#1C1C1C;">
     <p>Created player aiming controls</p>
     <a href="https://ittaimann.github.io/GamesIndex/Instrumental.html">View more info here</a>
   </div>
+  <div class="column" style="background-color:#1C1C1C;">
+    <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
+  </div>
 </div>
 </body>
-
