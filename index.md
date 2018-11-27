@@ -52,10 +52,11 @@ layout: default
   <div class="column" style="background-color:#2C2C2C;">
     <p>Summer game jam game worhol was done in a little under 48 hours for VGDC's self hosted summer game jam, and was my first attempt at creating a high visual quality game in unity.</p>
     <a href="https://ittaimann.github.io/GamesIndex/Worhol.html">View more info here</a>
+    <>
   </div>
   <div class="column" style="background-color:#1C1C1C;">
   <img src="(https://ittaimann.github.io/Images/Worhol/Thumbnail.png)
-" alt="Capture.PNG" width="300" height="200" align="right">
+" alt="Capture.PNG" width="347" height="293" align="right">
   </div>
 </div>
 </body>
