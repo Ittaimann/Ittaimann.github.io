@@ -56,7 +56,7 @@ layout: default
   </div>
   <div class="column" style="background-color:#1C1C1C;">
   <img src="(https://ittaimann.github.io/Images/Worhol/Thumbnail.png)
-" alt="Capture.PNG" width="347" height="293" align="right">
+" alt="https://ittaimann.github.io/Images/Worhol/Thumbnail.png" width="347" height="293" align="right">
   </div>
 </div>
 </body>
