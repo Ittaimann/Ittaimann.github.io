@@ -38,7 +38,7 @@ layout: default
     <a href="https://ittaimann.github.io/GamesIndex/Capstone.html">View more info here</a>
   </div>
   <div class="column" style="background-color:#1C1C1C;">
-  <img src="https://ittaimann.github.io/Images/it93/it93Thumbnail.png" width="300" height="200" align="right">
+  <img src="https://ittaimann.github.io/Images/it93/it93Thumbnail.png"  align="center">
   </div>
 </div>
 
@@ -56,7 +56,7 @@ layout: default
     <a href="https://ittaimann.github.io/Games/Worhol.zip" download>Click to Download</a>
   </div>
   <div class="column" style="background-color:#1C1C1C;">
-  <img src="https://ittaimann.github.io/Images/Worhol/Thumbnail.png" alt="https://ittaimann.github.io/Images/Worhol/Thumbnail.png" width="347" height="293" align="right">
+  <img src="https://ittaimann.github.io/Images/Worhol/Thumbnail.png" alt="https://ittaimann.github.io/Images/Worhol/Thumbnail.png" align="center">
   </div>
 </div>
 </body>
@@ -72,7 +72,7 @@ layout: default
     <a href="https://ittaimann.github.io/GamesIndex/GPU_Fire.html">View more info here</a>
   </div>
   <div class="column" style="background-color:#1C1C1C;">
-  <img src="https://ittaimann.github.io/Images/FireSim/fireThumbnail.png" alt="Capture.PNG" width="300" height="200" align="right">
+  <img src="https://ittaimann.github.io/Images/FireSim/fireThumbnail.png" alt="Capture.PNG" align="center">
   </div>
 </div>
 
