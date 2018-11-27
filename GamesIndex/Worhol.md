@@ -4,6 +4,8 @@ layout: default
 
 # Worhol
 
+<a href="https://ittaimann.github.io/Games/Worhol.zip" download>Download the game here</a>
+
 this games was a 3 person game jam built for UCI's Summer game jam as well as Extra Credit's
 Awesome Per Second game jam. [This](https://github.com/GDFauxtrot/AwesomePerSecond)is the original git repo from the jam, and [here](https://github.com/Ittaimann/Worhol) is a forked one on my personal github account for me to fix a couple things.
 
