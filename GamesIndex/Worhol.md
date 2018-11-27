@@ -8,7 +8,7 @@ this games was a 3 person game jam built for UCI's Summer game jam as well as Ex
 Awesome Per Second game jam. [This](https://github.com/GDFauxtrot/AwesomePerSecond)is the original git repo from the jam, and [here](https://github.com/Ittaimann/Worhol) is a forked one on my personal github account for me to fix a couple things.
 
 
-![alt](https://ittaimann.github.io/images/Worhol/Thumbnail.png)
+![alt](https://ittaimann.github.io/Images/Worhol/Thumbnail.png)
 
 The original concept for the game was rolling around a museum destroying as many pieces as possible. Meaning we had to implement a quick way to destroy museum object as well as make proper feedback for rolling and smashing said objects.
 

@@ -54,7 +54,8 @@ layout: default
     <a href="https://ittaimann.github.io/GamesIndex/Worhol.html">View more info here</a>
   </div>
   <div class="column" style="background-color:#1C1C1C;">
-  <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
+  <img src="(https://ittaimann.github.io/Images/Worhol/Thumbnail.png)
+" alt="Capture.PNG" width="300" height="200" align="right">
   </div>
 </div>
 </body>
