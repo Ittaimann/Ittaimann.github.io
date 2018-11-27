@@ -28,17 +28,17 @@ layout: default
 </style>
 
 
-## capstone
+## IT93
 
 
 <body>
 <div class="row">
   <div class="column" style="background-color:#2C2C2C;">
-    <p>Final game project for my major</p>
+    <p>Final game project for my major. I am currently the primary artist on this and am doing modeling as well as texturing</p>
     <a href="https://ittaimann.github.io/GamesIndex/Capstone.html">View more info here</a>
   </div>
   <div class="column" style="background-color:#1C1C1C;">
-  <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
+  <img src="https://ittaimann.github.io/Images/it93/it93Thumbnail.png" width="300" height="200" align="right">
   </div>
 </div>
 
@@ -72,7 +72,7 @@ layout: default
     <a href="https://ittaimann.github.io/GamesIndex/GPU_Fire.html">View more info here</a>
   </div>
   <div class="column" style="background-color:#1C1C1C;">
-  <img src="Capture.PNG" alt="Capture.PNG" width="300" height="200" align="right">
+  <img src="https://ittaimann.github.io/Images/FireSim/fireThumbnail.png" alt="Capture.PNG" width="300" height="200" align="right">
   </div>
 </div>
 
