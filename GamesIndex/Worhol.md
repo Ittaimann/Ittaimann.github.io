@@ -9,6 +9,7 @@ layout: default
 this games was a 3 person game jam built for UCI's Summer game jam as well as Extra Credit's
 Awesome Per Second game jam. [This](https://github.com/GDFauxtrot/AwesomePerSecond) is the original git repo from the jam, and [here](https://github.com/Ittaimann/Worhol) is a forked one on my personal github account for me to fix a couple things.
 
+![alt]("https://ittaimann.github.io/Images/Worhol/Thumbnail.png")
 <body>
   <img src="https://ittaimann.github.io/Images/Worhol/Thumbnail.png" alt="https://ittaimann.github.io/Images/Worhol/Thumbnail.png" width="347" height="293" align="center">
 </body>
